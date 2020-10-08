@@ -1,2 +1,2 @@
-# learn_linux
+# Learn_linux
 Learn and apply Linux instructions
